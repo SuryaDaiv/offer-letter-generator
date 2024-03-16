@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/offer-letter-generator/static/css/main.db097cbf.css",
+    "main.js": "/offer-letter-generator/static/js/main.f59c6077.js",
+    "static/media/Footer.png": "/offer-letter-generator/static/media/Footer.bb569c680601b1dbdb47.png",
+    "static/media/Header.png": "/offer-letter-generator/static/media/Header.00ca49b3e10be85dab36.png",
+    "index.html": "/offer-letter-generator/index.html",
+    "main.db097cbf.css.map": "/offer-letter-generator/static/css/main.db097cbf.css.map",
+    "main.f59c6077.js.map": "/offer-letter-generator/static/js/main.f59c6077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db097cbf.css",
+    "static/js/main.f59c6077.js"
+  ]
+}
